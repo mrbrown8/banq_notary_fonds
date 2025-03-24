@@ -3,3 +3,6 @@ databasing fonds of Public Notaries housed at BAnQ
 
 https://sqlite.org/index.html
 https://banq.qc.ca/
+
+insert autoincrement in lines: perl -pe 's/^/++$i/ge' html.txt 
+
