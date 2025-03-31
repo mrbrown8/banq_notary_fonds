@@ -34,6 +34,7 @@ Table people {
   id integer [primary key]
   name varchar
   FSlink varchar [note: 'link to FamilySearch']
+  notes varchar
 
 }
 
@@ -44,7 +45,7 @@ Table notaries {
   infopage varchar
 }
 
-Table image_series {
+Table image_set {
   id integer [primary key]
   notaryid integer
   series_name varchar
@@ -54,6 +55,7 @@ Table images {
   id integer [primary key]
   notaryid integer
   imagenumber integer
+  imageseriesid integer
   banqurl varchar
 }
 
@@ -64,5 +66,6 @@ Ref: users.id < follows.following_user_id
 Ref: users.id < follows.followed_user_id
 
 Ref: acts.notaryid < notaries.id
-Ref: image_series.notaryid < notaries.id
+Ref: image_set.notaryid < notaries.id
 Ref: images.notaryid < notaries.id
+Ref: images.imageseriesid < image_set.id
