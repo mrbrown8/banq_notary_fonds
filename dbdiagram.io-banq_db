@@ -23,16 +23,21 @@ Table posts {
   created_at timestamp
 }
 
+
+
 Table acts {
   id integer [primary key]
-  notaryid integer
+  notaryid integer [ref: - notaries.id]
+  actnumber varchar [note: 'act numbers are non-linear']
   numpages integer
+  people integer [ref: > people.id]
   pages varchar
 }
 
 Table people {
-  id integer [primary key]
+  id integer [primary key] 
   name varchar
+  acts integer [ref: > acts.id]
   FSlink varchar [note: 'link to FamilySearch']
   notes varchar
 
@@ -43,19 +48,23 @@ Table notaries {
   name varchar
   banqfond varchar
   infopage varchar
+  yearbegin integer
+  yearend integer
+  repositorylocation varchar
 }
 
 Table image_set {
   id integer [primary key]
-  notaryid integer
+  notaryid integer [ref: - notaries.id]
   series_name varchar
+  images integer [ref: > images.id]
 }
 
 Table images {
   id integer [primary key]
-  notaryid integer
-  imagenumber integer
-  imageseriesid integer
+  notaryid integer [ref: - notaries.id]
+  imageseriesid integer [ref: - image_set.id]
+  partofact integer [ref: - acts.id]
   banqurl varchar
 }
 
@@ -65,7 +74,6 @@ Ref: users.id < follows.following_user_id
 
 Ref: users.id < follows.followed_user_id
 
-Ref: acts.notaryid < notaries.id
-Ref: image_set.notaryid < notaries.id
-Ref: images.notaryid < notaries.id
-Ref: images.imageseriesid < image_set.id
+
+//Ref: image_set.notaryid < notaries.id
+
