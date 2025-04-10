@@ -10,3 +10,7 @@ https://openseadragon.github.io
 
 insert autoincrement in lines: perl -pe 's/^/++$i/ge' html.txt 
 csv import into sqlite: https://stackoverflow.com/questions/1045910/how-to-import-load-a-sql-or-csv-file-into-sqlite
+
+
+https://github.com/sql-js/sql.js
+https://github.com/vrana/adminer
