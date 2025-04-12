@@ -14,3 +14,4 @@ csv import into sqlite: https://stackoverflow.com/questions/1045910/how-to-impor
 
 https://github.com/sql-js/sql.js
 https://github.com/vrana/adminer
+https://github.com/outerbase/studio?tab=readme-ov-file
