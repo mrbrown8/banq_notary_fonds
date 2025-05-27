@@ -1,0 +1,192 @@
+[
+    {
+      "name": "Arthabaska",
+      "banqurl": "https://advitam.banq.qc.ca/notice/421305",
+      "cote": "CN402"
+    },
+    {
+      "name": "Trois-Rivières",
+      "banqurl": "https://advitam.banq.qc.ca/notice/421119",
+      "cote": "CN401"
+    },
+    {
+      "name": "Montréal",
+      "banqurl": "https://advitam.banq.qc.ca/notice/488279",
+      "cote": "CN601"
+    },
+    {
+      "name": "Saint-Hyacinthe",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489257",
+      "cote": "CN602"
+    },
+    {
+      "name": "Richelieu",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489401",
+      "cote": "CN603"
+    },
+    {
+      "name": "Joliette",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489601",
+      "cote": "CN605"
+    },
+    {
+      "name": "Québec",
+      "banqurl": "https://advitam.banq.qc.ca/notice/78123",
+      "cote": "CN301"
+    },
+    {
+      "name": "Beauce",
+      "banqurl": "https://advitam.banq.qc.ca/notice/81064",
+      "cote": "CN306"
+    },
+    {
+      "name": "Montmagny",
+      "banqurl": "https://advitam.banq.qc.ca/notice/80878",
+      "cote": "CN302"
+    },
+    {
+      "name": "Saguenay",
+      "banqurl": "https://advitam.banq.qc.ca/notice/80986",
+      "cote": "CN304"
+    },
+    {
+      "name": "Richelieu",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489401",
+      "cote": "CN603"
+    },
+    {
+      "name": "Iberville",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489522",
+      "cote": "CN604"
+    },
+    {
+      "name": "Terrebonne",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489741",
+      "cote": "CN606"
+    },
+    {
+      "name": "Chicoutimi",
+      "banqurl": "https://advitam.banq.qc.ca/notice/14042",
+      "cote": "CN201"
+    },
+    {
+      "name": "Alma",
+      "banqurl": "https://advitam.banq.qc.ca/notice/14070",
+      "cote": "CN203"
+    },
+    {
+      "name": "Montréal",
+      "banqurl": "https://advitam.banq.qc.ca/notice/488279",
+      "cote": "CN601"
+    },
+    {
+      "name": "Joliette",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489601",
+      "cote": "CN605"
+    },
+    {
+      "name": "Longueuil",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489928",
+      "cote": "CN608"
+    },
+    {
+      "name": "Hull",
+      "banqurl": "https://advitam.banq.qc.ca/notice/725940",
+      "cote": "CN701"
+    },
+    {
+      "name": "Pontiac",
+      "banqurl": "https://advitam.banq.qc.ca/notice/725978",
+      "cote": "CN702"
+    },
+    {
+      "name": "Labelle",
+      "banqurl": "https://advitam.banq.qc.ca/notice/725981",
+      "cote": "CN703"
+    },
+    {
+      "name": "Beauharnois",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489841",
+      "cote": "CN607"
+    },
+    {
+      "name": "Labelle",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489946",
+      "cote": "CN610"
+    },
+    {
+      "name": "Bedford",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489948",
+      "cote": "CN611"
+    },
+    {
+      "name": "Gaspé",
+      "banqurl": "https://advitam.banq.qc.ca/notice/382",
+      "cote": "CN102"
+    },
+    {
+      "name": "Rimouski",
+      "banqurl": "https://advitam.banq.qc.ca/notice/210",
+      "cote": "CN101"
+    },
+    {
+      "name": "Bonaventure",
+      "banqurl": "https://advitam.banq.qc.ca/notice/398",
+      "cote": "CN103"
+    },
+    {
+      "name": "Kamouraska",
+      "banqurl": "https://advitam.banq.qc.ca/notice/434",
+      "cote": "CN104"
+    },
+    {
+      "name": "Abitibi",
+      "banqurl": "https://advitam.banq.qc.ca/notice/758086",
+      "cote": "CN801"
+    },
+    {
+      "name": "Roberval",
+      "banqurl": "https://advitam.banq.qc.ca/notice/14057",
+      "cote": "CN202"
+    },
+    {
+      "name": "Bedford",
+      "banqurl": "https://advitam.banq.qc.ca/notice/440816",
+      "cote": "CN502"
+    },
+    {
+      "name": "Drummond",
+      "banqurl": "https://advitam.banq.qc.ca/notice/421368",
+      "cote": "CN403"
+    },
+    {
+      "name": "Saint-François",
+      "banqurl": "https://advitam.banq.qc.ca/notice/440752",
+      "cote": "CN501"
+    },
+    {
+      "name": "Saint-Hyacinthe",
+      "banqurl": "https://advitam.banq.qc.ca/notice/489257",
+      "cote": "CN602"
+    },
+    {
+      "name": "Thetford Mines",
+      "banqurl": "https://advitam.banq.qc.ca/notice/81054",
+      "cote": "CN305"
+    },
+    {
+      "name": "Témiscamingue",
+      "banqurl": "https://advitam.banq.qc.ca/notice/758092",
+      "cote": "CN802"
+    },
+    {
+      "name": "Trois-Rivières",
+      "banqurl": "https://advitam.banq.qc.ca/notice/421119",
+      "cote": "CN401"
+    },
+    {
+      "name": "Saint-Maurice",
+      "banqurl": "https://advitam.banq.qc.ca/notice/421370",
+      "cote": "CN404"
+    },
+]
